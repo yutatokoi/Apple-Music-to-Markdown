@@ -11,3 +11,8 @@ Archive Apple Music playlists to Markdown format
 The playlists should be exported to a `.md` format, with the playlist name as the filename, and in each `.md`, the name of the song, as well as the name of the artist, in double bracket links.
 
 <img width="751" alt="example-playlist" src="https://github.com/yutatokoi/Apple-Music-to-Markdown/assets/69610953/900ac781-7422-4ed0-a0d3-0fc3350207a1">
+
+
+Along with the individual markdowns of each playlist, a separate `apple-music-playlists.md` is made, that links all individual playlists to one file.
+
+<img width="740" alt="apple-music-playlists" src="https://github.com/yutatokoi/Apple-Music-to-Markdown/assets/69610953/66ae649a-f3da-43f3-a186-e9df1e647a61">
